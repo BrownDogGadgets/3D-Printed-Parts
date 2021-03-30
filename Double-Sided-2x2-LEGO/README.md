@@ -6,7 +6,7 @@ This file can be printed on a standard FFF (Fused Filament Fabrication) desktop 
 
 ![](Images/Double-Sided-2x2-LEGO.png)
 
-![](Images/Double-Sided-2x2-LEGO.jpg)
+![](Images/Double-Sided-2x2-LEGO-0993.jpg)
 
 ---
 
