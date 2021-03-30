@@ -2,7 +2,7 @@
 
 This is a LEGO compatible file that holds a [OLED Display](https://www.amazon.com/gp/product/B08FD643VZ/) for mounting onto a LEGO baseplate or bricks.
 
-The OLED Display is placed into the holder by putting the bottom half into the bottom holder arms and then gently pressing the top into the top holding arrms.
+The OLED Display is placed into the holder by putting the bottom half into the bottom holder arms and then gently pressing the top into the top holding arms.
 
 **Caution:** The OLED display is fragile. Do not press down on the screen. It is recommended to place the 3D printed holder onto the LEGO surface before you insert the display.
 
