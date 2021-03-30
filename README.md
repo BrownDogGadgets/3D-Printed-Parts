@@ -1,5 +1,7 @@
 # 3D Printed Parts
 
+![](3D-Printed-Parts.jpg)
+
 These are custom 3D printed parts that make it easy to hold a variety of electronic components we use at [Brown Dog Gadgets](https://www.browndoggadgets.com/).
 
 They are LEGO compatible, and are meant to be attached to a LEGO baseplate or bricks.
