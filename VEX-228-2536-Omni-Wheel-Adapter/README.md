@@ -10,6 +10,8 @@ This file can be printed on a standard FFF (Fused Filament Fabrication) desktop 
 
 ![](Images/VEX-228-2536-Omni-Wheel-Adapter-Render.png)
 
+![](Images/VEX-228-2536-Omni-Wheel-Adapter-Render-Inside.png)
+
 ---
 
 Brown Dog Gadgets
