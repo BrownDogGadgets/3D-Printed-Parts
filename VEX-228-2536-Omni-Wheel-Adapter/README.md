@@ -4,7 +4,7 @@ This is a LEGO compatible file that works as an adapter to allow for the [VEX 20
 
 There is a 3mm version and a 4mm version. The 4mm version will fit snug, and the 3mm version will have a bit more play.
 
-This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
+This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer. You may need support for this one depending on your printer, but you can try a print without support first to see if it works.
 
 ![](Images/VEX-228-2536-Omni-Wheel-Adapter.png)
 
