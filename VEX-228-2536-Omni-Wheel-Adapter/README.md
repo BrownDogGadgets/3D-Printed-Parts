@@ -2,7 +2,7 @@
 
 This is a LEGO compatible file that works as an adapter to allow for the [VEX 200mm Travel Omni-Directional Wheel](https://www.vexrobotics.com/228-2536.html) to work with LEGO Technic Axles.
 
-There is a 3mm version and a 4mm version. The 4mm version will fit snug, and the 3mm version will have a bit more play.
+There is a 4mm version and a 3mm version. The 4mm version will fit perfectly, and the 3mm version will have a bit more play.
 
 This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer. You may need support for this one depending on your printer, but you can try a print without support first to see if it works.
 
@@ -33,3 +33,4 @@ You will need 4 bolts (12mm in length) as well as 4 matching hex nuts. You shoul
 Brown Dog Gadgets
 
 https://www.browndoggadgets.com/
+
