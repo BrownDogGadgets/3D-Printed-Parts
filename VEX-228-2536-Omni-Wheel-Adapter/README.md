@@ -24,6 +24,8 @@ You will need 4 bolts (12mm in length) as well as 4 matching hex nuts. You shoul
 
 ![](Images/VEX-228-2536-Omni-Wheel-Adapter.png)
 
+![](Images/VEX-228-2536-Omni-Wheel-Adapter-1077.jpg)
+
 ![](Images/VEX-228-2536-Omni-Wheel-Adapter-1075.jpg)
 
 ![](Images/VEX-228-2536-Omni-Wheel-Adapter-1074.jpg)
