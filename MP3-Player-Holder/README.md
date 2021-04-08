@@ -10,7 +10,7 @@ This file can be printed on a standard FFF (Fused Filament Fabrication) desktop 
 
 ![](Images/MP3-Player-Holder.png)
 
-![](Images/MP3-Player-Holder.jpg)
+![](Images/MP3-Player-Holder-1071.jpg)
 
 ---
 
