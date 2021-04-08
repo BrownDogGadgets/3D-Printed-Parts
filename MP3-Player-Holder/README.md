@@ -6,7 +6,7 @@ The MP3 Player Module is placed into the holder by putting one edge into the bot
 
 This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
-**Note:** The MP3 Player Board can be flipped so the SD Card Holder is on the top or the bottom.
+**Note:** The MP3 Player Module can be flipped so the SD Card Holder is on the top or the bottom.
 
 ![](Images/MP3-Player-Holder.png)
 
