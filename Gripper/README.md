@@ -6,6 +6,8 @@ There is a full guide available on our web site: [LEGO Gripper (with 3D Printed 
 
 These files can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
+**Note:** For advanced users we've included the [OpenSCAD](http://openscad.org/) files in the ```Source``` directory. If you are comfortable editing files you can make some customizations as to the sizes and configuration of the models.
+
 ![](Images/Gripper-Finger-Left.png)
 
 ![](Images/Gripper-Finger-Right.png)
