@@ -14,6 +14,8 @@ We've updated the Large version to add an addtional "foot" to help hold the tape
 
 ![](Images/Small-Tape-Holder.png)
 
+![](Images/Large-Tape-Holder-v2-2386.jpg)
+
 ![](Images/Large-Tape-Holder-2345.jpg)
 
 ![](Images/Large-Tape-Holder-2346.jpg)
