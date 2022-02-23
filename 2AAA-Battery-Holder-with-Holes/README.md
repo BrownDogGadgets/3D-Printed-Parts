@@ -1,6 +1,6 @@
 # 2AAA Battery Holder with Holes
 
-This is a LEGO Technic compatible file that holds a [2AAA Battery Holder](https://www.browndoggadgets.com/products/aaa-battery-holder-double) for mounting onto a LEGO Technic Beams.
+This is a LEGO Technic compatible file that holds a [2AAA Battery Holder](https://www.browndoggadgets.com/products/aaa-battery-holder-double) for mounting onto LEGO Technic Beams.
 
 The battery pack sits inside the holder loosely. If you want a more secure fit you can add some tape to hold the battery pack into place.
 
