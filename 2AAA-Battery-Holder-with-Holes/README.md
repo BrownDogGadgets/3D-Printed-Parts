@@ -8,9 +8,10 @@ The battery pack sits inside the holder loosely. If you want a more secure fit y
 
 This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
-![](Images/2AAA-Battery-Holder-with-Holes.png)
+![](Images/2AAA-Battery-Holder-with-Holes-Tall.png)
 
-![](Images/2AAA-Battery-Holder-with-Holes-3866.jpg)
+![](Images/2AAA-Battery-Holder-with-Holes-Short.png)
+
 
 ---
 
