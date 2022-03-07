@@ -12,7 +12,7 @@ We've provided a few variations depending on the angle you wish to mount the pen
 - Pen-Holder-FPS-Horizontal.stl
 
 ## Hardware
-The Pen Holder requires a 3mm hexnut to be inserted into the cavity on the inside of the circular part. A 3mm bolt (at least 10mm long) then threads through the nut and can be tightened against the pen to hold it in place.
+The Pen Holder requires a 3mm hex nut to be inserted into the cavity on the inside of the circular part. A 3mm bolt (at least 10mm long) then threads through the nut and can be tightened against the pen to hold it in place.
 
 This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
