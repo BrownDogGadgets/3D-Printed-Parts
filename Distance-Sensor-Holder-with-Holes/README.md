@@ -1,4 +1,4 @@
-# Distance Sensor Holder
+# Distance Sensor Holder with Holes
 
 This is a LEGO Technic compatible part that holds a [Distance Sensor](https://www.browndoggadgets.com/products/distance-sensor) for mounting onto LEGO Technic parts.
 
