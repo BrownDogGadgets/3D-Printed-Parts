@@ -8,6 +8,13 @@ This file can be printed on a standard FFF (Fused Filament Fabrication) desktop 
 
 ![](Images/Distance-Sensor-Holder-with-Holes.png)
 
+![](Images/Distance-Sensor-Holder-with-Holes-3936.jpg)
+
+![](Images/Distance-Sensor-Holder-with-Holes-3937.jpg)
+
+![](Images/Distance-Sensor-Holder-with-Holes-3938.jpg)
+
+
 ---
 
 Brown Dog Gadgets
