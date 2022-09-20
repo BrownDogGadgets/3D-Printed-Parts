@@ -12,6 +12,17 @@ This file can be printed on a standard FFF (Fused Filament Fabrication) desktop 
 
 ![](Images/CR2032-Battery-Holder.png)
 
+![](Images/CR2032-Battery-Holder-4847.jpg)
+
+![](Images/CR2032-Battery-Holder-4848.jpg)
+
+![](Images/CR2032-Battery-Holder-4849.jpg)
+
+![](Images/CR2032-Battery-Holder-4851.jpg)
+
+![](Images/CR2032-Battery-Holder-4850.jpg)
+
+
 ---
 
 Brown Dog Gadgets
