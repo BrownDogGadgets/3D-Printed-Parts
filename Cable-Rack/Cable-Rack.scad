@@ -1,5 +1,5 @@
 /*
- * CR2032 Battery Holder.scad
+ * Cable Rack.scad
  *
  * Brown Dog Gadgets <https://www.browndoggadgets.com/>
  *
