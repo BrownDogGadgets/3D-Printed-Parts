@@ -8,6 +8,8 @@ The Remote pieces in the SVG file should be 155.43mm wide. If they get resized b
 
 We've included one more file (`Beam-4-Hole.stl`) which you can print two of if you want to use them to secure the Bit Board onto the Remote.
 
+The full instructional guide for this can be found here: https://learn.browndoggadgets.com/Guide/Rover+Thumbstick+Remote/475
+
 ## Assembly Hardware
 
 You will need 4 screws as well as 4 matching hex nuts to secure the Thumbsticks to the Remote. (The screws also hold the two pieces of laser cut acrylic together.)
