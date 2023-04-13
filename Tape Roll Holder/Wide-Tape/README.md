@@ -4,23 +4,32 @@ Files for a 3D printed tape roll holder that can be used with 1/4" wide Maker Ta
 
 These files can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
-**2021-09-02 New Version!**
+## 2023-04-13 New Version!
 
-We've updated the Large version to add an addtional "foot" to help hold the tape in place. The foot is optional but you may find it useful.
+The latest version of our Large Tape Roll Holder features an extended Lock to help prevent cutting the tape too close to the feeding slot. (We've also widened the entrance side of the slot to make it easier to feed the tape through.)
 
-![](Images/Large-Tape-Holder-v2.png)
+We've also changed the swing-in-place lock to be a Clip. Once you put a roll of tape onto the holder you can add the Clip to help prevent the tape from unspooling from the roll. The Clip is removable if you need to replace the roll of tape when it runs out.
 
-![](Images/Large-Tape-Holder-v2-assembled.png)
+These changes are the result of working with educators at events for the past year. We hope you find the improvements useful! (We've left the old v2 files in this repository in case you still need them.)
+
+We've left the Small Tape Roll Holder as-is, with no new modifications.
+
+![](Images/Large-Tape-Holder-v3-001.png)
+
+![](Images/Large-Tape-Holder-v3-002.png)
+
+![](Images/Large-Tape-Holder-v3-003.png)
+
+![](Images/Large-Tape-Holder-v3-5438.jpg)
+
+![](Images/Large-Tape-Holder-v3-5439.jpg)
+
+![](Images/Large-Tape-Holder-v3-5442.jpg)
 
 ![](Images/Small-Tape-Holder.png)
 
-![](Images/Large-Tape-Holder-v2-2386.jpg)
+![](Images/Small-Tape-Holder-2345.jpg)
 
-![](Images/Large-Tape-Holder-2345.jpg)
-
-![](Images/Large-Tape-Holder-2346.jpg)
-
-![](Images/Large-Tape-Holder-2347.jpg)
 
 ---
 
