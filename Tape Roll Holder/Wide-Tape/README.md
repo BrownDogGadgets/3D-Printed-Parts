@@ -6,7 +6,7 @@ These files can be printed on a standard FFF (Fused Filament Fabrication) deskto
 
 ## 2023-04-13 New Version!
 
-The latest version of our Large Tape Roll Holder features an extended Lock to help prevent cutting the tape too close to the feeding slot. (We've also widened the entrance side of the slot to make it easier to feed the tape through.)
+The latest version of our Large Tape Roll Holder (v3) features an extended Lock to help prevent cutting the tape too close to the feeding slot. (We've also widened the entrance side of the slot to make it easier to feed the tape through.)
 
 We've also changed the swing-in-place lock to be a Clip. Once you put a roll of tape onto the holder you can add the Clip to help prevent the tape from unspooling from the roll. The Clip is removable if you need to replace the roll of tape when it runs out.
 
