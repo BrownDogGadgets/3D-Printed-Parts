@@ -1,28 +1,23 @@
 # Pen Holder
 
-This is a LEGO Technic compatible part that holds a pen for mounting onto LEGO Technic parts.
+This is the Pen Holder for our [Bit Board Rover Kit](https://www.browndoggadgets.com/products/bit-board-rover). It is a Technic compatible component that can hold a mark making device.
 
-This version works well with a Fine Point Sharpie Marker (or any other pen/marker that is less than 12.5mm in diameter) but other versions suitable for larger markers will be added soon.
-
-We've provided a few variations depending on the angle you wish to mount the pen at. Check all the files and use the one that works best for your situation.
-
-## Compatible with Fine Point Sharpie Marker
-- Pen-Holder-FPS-Vertical-Cross.stl
-- Pen-Holder-FPS-Vertical.stl
-- Pen-Holder-FPS-Horizontal.stl
+This version works well with a Fine Point Sharpie Marker or any other pen/marker that is less than 13mm in diameter..
 
 ## Hardware
-The Pen Holder requires a 3mm hex nut to be inserted into the cavity on the inside of the circular part. A 3mm bolt (at least 10mm long) then threads through the nut and can be tightened against the pen to hold it in place.
+The Pen Holder requires a 3mm hex nut to be inserted into the cavity on the inside of the circular part. A 3mm bolt (at least 10mm long) then threads through the nut and can be tightened against the pen to hold it in place. (Do not overtighten the screw. It just needs to be tight enough to hold the pen in place.)
 
 This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
-![](Images/Pen-Holder-FPS.png)
+![](Images/Pen-Holder.png)
 
-![](Images/Pen-Holder-3884.jpg)
+![](Images/Pen-Holder-5432.jpg)
 
-![](Images/Pen-Holder-3881.jpg)
+![](Images/Pen-Holder-5433.jpg)
 
-![](Images/Pen-Holder-3880.jpg)
+![](Images/Rover-with-Pen-Holder-5436.jpg)
+
+![](Images/Rover-with-Pen-Holder-5437.jpg)
 
 
 ---
