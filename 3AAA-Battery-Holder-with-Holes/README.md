@@ -8,11 +8,11 @@ This file can be printed on a standard FFF (Fused Filament Fabrication) desktop 
 
 ![](Images/3AAA-Battery-Holder-with-Holes-Short.png)
 
-![](Images/2AAA-Battery-Holder-with-Holes-5444.jpg)
+![](Images/3AAA-Battery-Holder-with-Holes-5444.jpg)
 
-![](Images/2AAA-Battery-Holder-with-Holes-5446.jpg)
+![](Images/3AAA-Battery-Holder-with-Holes-5446.jpg)
 
-![](Images/2AAA-Battery-Holder-with-Holes-5447.jpg)
+![](Images/3AAA-Battery-Holder-with-Holes-5447.jpg)
 
 
 ---
