@@ -1,18 +1,16 @@
 # OLED Display Holder
 
-This is a LEGO compatible file that holds a [OLED Display](https://www.amazon.com/gp/product/B08FD643VZ/) for mounting onto a LEGO baseplate or bricks.
+Files for our Component Holder sized to hold an [OLED Display](https://amzn.to/40FYsNP) for mounting onto a LEGO baseplate or bricks.
 
-The OLED Display is placed into the holder by putting the bottom half into the bottom holder arms and then gently pressing the top into the top holding arms.
+For tips on using this check out our [3D Printed Component Holder](https://learn.browndoggadgets.com/Guide/3D+Printed+Component+Holder/578) guide.
 
-**Caution:** The OLED display is fragile. Do not press down on the screen. It is recommended to place the 3D printed holder onto the LEGO surface before you insert the display.
+These files can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
-**Note:** We've left space beneath the display so that you can solder right angle header pins to the PCB.
+![](Images/Component-Holder-4x5.5.png)
 
-This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
+![](Images/Component-Holder-4x5.5-5465.jpg)
 
-![](Images/OLED-Display-Holder.png)
-
-![](Images/OLED-Display-Holder-0957.jpg)
+![](Images/Component-Holder-4x5.5-5471.jpg)
 
 ---
 
