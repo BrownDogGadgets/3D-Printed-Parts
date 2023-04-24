@@ -1,14 +1,16 @@
 # Temperature and Humidity Sensor Holder
 
-This is a LEGO compatible file that holds a [Temperature and Humidity Sensor](https://www.browndoggadgets.com/products/temperature-and-humidity-sensor) for mounting onto a LEGO baseplate or bricks.
+Files for our Component Holder sized to hold a [Temperature and Humidity Sensor](https://www.browndoggadgets.com/products/temperature-and-humidity-sensor) for mounting onto a LEGO baseplate or bricks.
 
-The Temperature and Humidity Sensor slides into the holder and is held in place by friction. If the fit is a bit too tight you can file or sand the inside holding arms of the print.
+For tips on using this check out our [3D Printed Component Holder](https://learn.browndoggadgets.com/Guide/3D+Printed+Component+Holder/578) guide.
 
-This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
+These files can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
-![](Images/Temperature-and-Humidity-Sensor-Holder.png)
+![](Images/Component-Holder-4x4.png)
 
-![](Images/Temperature-and-Humidity-Sensor-Holder-0959.jpg)
+![](Images/Component-Holder-4x4-5466.jpg)
+
+![](Images/Component-Holder-4x4-5472.jpg)
 
 ---
 
