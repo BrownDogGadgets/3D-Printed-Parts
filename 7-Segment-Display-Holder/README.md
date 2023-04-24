@@ -1,14 +1,16 @@
 # 7 Segment Display Holder
 
-This is a LEGO compatible file that holds a [7 Segment Display](https://www.browndoggadgets.com/products/7-segment-display) for mounting onto a LEGO baseplate or bricks.
+Files for our Component Holder sized to hold a [7 Segment Display](https://www.browndoggadgets.com/products/7-segment-display) for mounting onto a LEGO baseplate or bricks.
 
-The 7 Segment Display slides into the holder and is held in place by friction. If the fit is a bit too tight you can file or sand the inside holding arms of the print.
+For tips on using this check out our [3D Printed Component Holder](https://learn.browndoggadgets.com/Guide/3D+Printed+Component+Holder/578) guide.
 
-This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
+These files can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
-![](Images/7-Segment-Display-Holder.png)
+![](Images/Component-Holder-5x5.png)
 
-![](Images/7-Segment-Display-Holder-0956.jpg)
+![](Images/Component-Holder-5x5-5448.jpg)
+
+![](Images/Component-Holder-5x5-5467.jpg)
 
 ---
 
