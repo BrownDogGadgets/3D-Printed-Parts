@@ -1,6 +1,6 @@
 # MP3 Player Holder
 
-Files for our Component Holder sized to hold an [MP3 Player Module](https://amzn.to/41Bzali) for mounting onto a LEGO baseplate or bricks.
+Files for our Component Holder sized to hold an [MP3 Player Module](https://amzn.to/40B0hMd) for mounting onto a LEGO baseplate or bricks.
 
 For tips on using this check out our [3D Printed Component Holder](https://learn.browndoggadgets.com/Guide/3D+Printed+Component+Holder/578) guide.
 
