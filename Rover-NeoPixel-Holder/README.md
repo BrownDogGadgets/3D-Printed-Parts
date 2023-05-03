@@ -6,6 +6,9 @@ This file can be printed on a standard FFF (Fused Filament Fabrication) desktop 
 
 The piece in the SVG file should be 81.225mm wide and 40mm tall. If it gets resized by your software proportionally scale to match that width.
 
+Check out the guide for usage: https://learn.browndoggadgets.com/Guide/Addressable+RGB+LED+Strip/539
+
+
 ## Assembly Hardware
 
 You will need 2 screws as well as 2 matching hex nuts to secure the NeoPixel strip to the NeoPixel Holder.

@@ -6,6 +6,9 @@ This file can be printed on a standard FFF (Fused Filament Fabrication) desktop 
 
 The piece in the SVG file should be 94.5mm wide and 15.5mm tall. If it gets resized by your software proportionally scale to match that width.
 
+Check out the guide for usage: https://learn.browndoggadgets.com/Guide/Rover+Line+Following/488
+
+
 ## Assembly Hardware
 
 You will need 2 screws as well as 2 matching hex nuts to secure the sensors to the Light Sensor Bar.
