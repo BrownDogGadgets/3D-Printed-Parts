@@ -24,6 +24,15 @@ You will also need 2 LEGO Technic Pins to mount the Light Sensor Bar onto the Ro
 
 - 2 x [LEGO Technic Pin with Friction Ridges and Slots (2780 / 61332)](https://www.brickowl.com/catalog/lego-technic-pin-with-friction-ridges-and-slots-2780-61332)
 
+![](Images/Rover-Light-Sensors-Bar-5478.jpg)
+
+![](Images/Rover-Light-Sensors-Bar-5482.jpg)
+
+![](Images/Rover-Light-Sensors-Bar-5483.jpg)
+
+![](Images/Rover-Light-Sensors-Bar-5484.jpg)
+
+![](Images/Rover-Light-Sensors-Bar-5485.jpg)
 
 ![](Images/Rover-Light-Sensors-Bar-STL.png)
 

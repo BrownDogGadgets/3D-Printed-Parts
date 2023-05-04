@@ -24,6 +24,15 @@ You will also need 2 LEGO Technic Pins to mount the NeoPixel Holder onto the Rov
 
 - 2 x [LEGO Technic Pin with Friction Ridges and Slots (2780 / 61332)](https://www.brickowl.com/catalog/lego-technic-pin-with-friction-ridges-and-slots-2780-61332)
 
+![](Images/Rover-NeoPixel-Holder-5481.jpg)
+
+![](Images/Rover-NeoPixel-Holder-5486.jpg)
+
+![](Images/Rover-NeoPixel-Holder-5487.jpg)
+
+![](Images/Rover-NeoPixel-Holder-5488.jpg)
+
+![](Images/Rover-NeoPixel-Holder-5489.jpg)
 
 ![](Images/Rover-NeoPixel-Holder-STL.png)
 
