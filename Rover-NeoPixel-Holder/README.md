@@ -1,6 +1,6 @@
 # Rover NeoPixel Holder
 
-If you want to build your own Rover NeoPixel Holder you can 3D print the STL file, or use the SVG file to laser cut a single piece of 6mm acrylic or two pieces of 3mm acrylic.
+If you want to make your own Rover NeoPixel Holder you can 3D print the STL file, or use the SVG file to laser cut a single piece of 6mm acrylic or two pieces of 3mm acrylic.
 
 This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
