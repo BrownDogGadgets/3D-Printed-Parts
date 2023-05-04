@@ -4,7 +4,7 @@ If you want to build your own Rover Light Sensor Bar you can 3D print the STL fi
 
 This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
-The piece in the SVG file should be 94.5mm wide and 15.5mm tall. If it gets resized by your software proportionally scale to match that width.
+The piece in the SVG file should be 94.5mm wide and 15.5mm tall. If it gets resized by your software proportionally scale to match that size.
 
 Check out the guide for usage: https://learn.browndoggadgets.com/Guide/Rover+Line+Following/488
 

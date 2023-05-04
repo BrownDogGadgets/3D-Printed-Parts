@@ -4,7 +4,7 @@ If you want to build your own Rover NeoPixel Holder you can 3D print the STL fil
 
 This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
-The piece in the SVG file should be 81.225mm wide and 40mm tall. If it gets resized by your software proportionally scale to match that width.
+The piece in the SVG file should be 81.225mm wide and 40mm tall. If it gets resized by your software proportionally scale to match that size.
 
 Check out the guide for usage: https://learn.browndoggadgets.com/Guide/Addressable+RGB+LED+Strip/539
 
