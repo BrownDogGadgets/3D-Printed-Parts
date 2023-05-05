@@ -28,6 +28,10 @@ You will also need 4 LEGO Technic Pins to mount the Bit Board to the Remote.
 
 ![](Images/Rover-Remote-Printed-4333.jpg)
 
+![](Images/Rover-Remote-Printed-4332.jpg)
+
+![](Images/Rover-Remote-Printed-4334.jpg)
+
 ![](Images/Rover-Remote-STL.png)
 
 ![](Images/Rover-Remote-LC.png)
