@@ -1,6 +1,6 @@
 # Rover Remote
 
-If you want to build your own Rover Remote you can 3D print the STL file, or use the SVG file to laser cut two pieces of 3mm acrylic.
+If you want to make your own Rover Remote you can 3D print the STL file, or use the SVG file to laser cut two pieces of 3mm acrylic.
 
 This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
