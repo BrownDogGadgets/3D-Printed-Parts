@@ -10,9 +10,15 @@ The latest version of our Large Tape Roll Holder (v4) has been simplified. It no
 
 These changes are the result of working with educators at events for the past year. We hope you find the improvements useful! (We've left the older files in this repository in case you still need them.)
 
-![](Large-Tape-Holder-v4-001.png)
-
 ![](Images/Large-Tape-Holder-v4-9615.jpg)
+
+![](Images/Large-Tape-Holder-v4-001.png)
+
+![](Images/Large-Tape-Holder-v4-002.png)
+
+![](Images/Large-Tape-Holder-v4-003.png)
+
+![](Images/Large-Tape-Holder-v4-004.png)
 
 ---
 
