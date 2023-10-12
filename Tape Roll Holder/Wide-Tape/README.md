@@ -12,13 +12,7 @@ These changes are the result of working with educators at events for the past ye
 
 ![](Images/Large-Tape-Holder-v4-9615.jpg)
 
-![](Images/Large-Tape-Holder-v4-001.png)
-
-![](Images/Large-Tape-Holder-v4-002.png)
-
-![](Images/Large-Tape-Holder-v4-003.png)
-
-![](Images/Large-Tape-Holder-v4-004.png)
+![](Images/Large-Tape-Holder-v4-GIF.gif)
 
 ---
 
