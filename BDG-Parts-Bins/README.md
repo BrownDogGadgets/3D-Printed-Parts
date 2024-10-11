@@ -10,9 +10,16 @@ Check out our other [3D Printed Parts](https://learn.browndoggadgets.com/c/3D_Pr
 
 **Note:** We based these bins on some of the code from [Gridfinity Rebuilt](https://kennetek.github.io/gridfinity-rebuilt-openscad/).
 
-![](Images/BDG-Parts-Bins-Render-01.png)
 
-![](Images/BDG-Parts-Bins-Animated-01.gif)
+![](Images/BDG-Parts-Bin-6516.jpg)
+
+![](Images/BDG-Parts-Bin-6519.jpg)
+
+![](Images/BDG-Parts-Bin-Render-01.png)
+
+![](Images/BDG-Parts-Bin-Render-01.png)
+
+![](Images/BDG-Parts-Bin-Animated-01.gif)
 
 ---
 
