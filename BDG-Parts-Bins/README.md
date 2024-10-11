@@ -2,7 +2,7 @@
 
 These files can be printed to create a set of stackable bins.
 
-See the full guide for assembly and use instructions: [BDG Parts Bins](https://learn.browndoggadgets.com/Guide/BDG+Parts+Bins/685)
+See the full guide for assembly and use instructions: [BDG Parts Bins](https://learn.browndoggadgets.com/Guide/BDG+Parts+Bin/685)
 
 These files can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
