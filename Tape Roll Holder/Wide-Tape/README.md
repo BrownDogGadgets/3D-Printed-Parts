@@ -1,6 +1,6 @@
 # Tape Roll Holder (1/4" Wide, 20 Meter Roll)
 
-Files for a 3D printed tape roll holder that can be used with 1/4" Wde, 20 Meter Roll of Maker Tape from Brown Dog Gadgets.
+Files for a 3D printed tape roll holder that can be used with 1/4" Wide, 20 Meter Roll of Maker Tape from Brown Dog Gadgets.
 
 These files can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
