@@ -1,12 +1,19 @@
-# Tape Roll Holder - 1/8" Maker Tape
+# Tape Roll Holder (1/8" Wide)
 
-Files for a 3D printed tape roll holder that can be used with 1/8" wide Maker Tape from Brown Dog Gadgets.
+Tape Roll Holders for a 5 Meter Roll of 1/8" Maker Tape.
+
+---
+
+## 5 Meter Roll
+
+Files for a 3D printed tape roll holder that can be used with 1/8" Wide, 5 Meter Roll of Maker Tape from Brown Dog Gadgets.
 
 These files can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
-![](Images/Small-Tape-Holder-Thin.png)
+We've also included the letters "BDG" which you can add to the lock if you want to do a two-color print. (If not, just print the lock by itself.)
 
-![](Images/Small-Tape-Holder-Thin-2558.jpg)
+[ add photos here ]
+
 
 ---
 
