@@ -12,8 +12,20 @@ These files can be printed on a standard FFF (Fused Filament Fabrication) deskto
 
 We've also included the letters "BDG" which you can add to the lock if you want to do a two-color print. (If not, just print the lock by itself.)
 
-[ add photos here ]
 
+![](Images/Tape-Roll-Holder-SmTh-Render-01.png)
+
+![](Images/Tape-Roll-Holder-SmTh-Render-02.png)
+
+![](Images/Tape-Roll-Holder-SmTh-Render-03.png)
+
+![](Images/Small-Tape-Holder-Th-v2-6741.jpg)
+
+![](Images/Small-Tape-Holder-Th-v2-6742.jpg)
+
+![](Images/Small-Tape-Holder-Th-v2-6743.jpg)
+
+![](Images/Small-Tape-Holder-Th-v2-6744.jpg)
 
 ---
 
