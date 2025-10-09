@@ -27,6 +27,5 @@ Check out our other [3D Printed Parts](https://learn.browndoggadgets.com/c/3D_Pr
 
 ---
 
-Brown Dog Gadgets
-
+Brown Dog Gadgets  
 https://www.browndoggadgets.com/

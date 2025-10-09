@@ -15,6 +15,5 @@ We've separated the 1/4" wide tape and the 1/8" wide tape into separate director
 
 ---
 
-Brown Dog Gadgets
-
+Brown Dog Gadgets  
 https://www.browndoggadgets.com/
