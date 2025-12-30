@@ -10,6 +10,17 @@ There are a few versions.
 
 This file can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
+
+![](Images/MicroBit-Holder-5344.jpg)
+
+![](Images/MicroBit-Holder-5345.jpg)
+
+![](Images/MicroBit-Holder-5346.jpg)
+
+![](Images/MicroBit-Holder-5347.jpg)
+
+![](Images/MicroBit-Holder-5348.jpg)
+
 ![](Images/MicroBit-Holder-01.png)
 
 ![](Images/MicroBit-Holder-02.png)
