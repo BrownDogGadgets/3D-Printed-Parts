@@ -25,8 +25,6 @@ This file can be printed on a standard FFF (Fused Filament Fabrication) desktop 
 
 ![](Images/MicroBit-Holder-02.png)
 
-![](Images/MicroBit-Holder-001.jpg)
-
 ![](Images/MicroBit-Holder-03.png)
 
 
