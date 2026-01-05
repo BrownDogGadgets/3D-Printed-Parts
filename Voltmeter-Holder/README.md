@@ -1,6 +1,6 @@
 # Voltmeter Holder
 
-This is a desktop holder for the voltmeter we us in some of our kits.
+This is a desktop holder for the analog voltmeter we us in some of our kits.
 
 There are holes on the base that allow you to attach it to LEGO Technic Beams using LEGO Technic Pins.
 
