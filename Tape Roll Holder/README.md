@@ -4,16 +4,17 @@ Files for a 3D printed tape roll holder that can be used with [Maker Tape](https
 
 These files can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
-We've separated the 1/4" wide tape and the 1/8" wide tape into separate directories.
+We've separated the **1/4" wide tape** holders and the **1/8" wide tape** holders into separate directories.
+
+(We recommend 1/4" for Paper Circuits and 1/8" for Crazy Circuits.)
 
 ![](./Wide-Tape/Images/Large-Tape-Holder-v4-GIF.gif)
 
-![](./Wide-Tape/Images/Small-Tape-Holder.png)
+![](./Wide-Tape/Images/Tape-Roll-Holder-Sm-Render-01.png)
 
-![](./Thin-Tape/Images/Small-Tape-Holder-Thin.png)
-
+![](./Thin-Tape/Images/Tape-Roll-Holder-SmTh-Render-01.png)
 
 ---
 
 Brown Dog Gadgets  
-https://www.browndoggadgets.com/
+[www.browndoggadgets.com](https://www.browndoggadgets.com/)

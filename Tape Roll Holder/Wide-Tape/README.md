@@ -35,18 +35,28 @@ Files for a 3D printed tape roll holder that can be used with 1/4" Wide, 5 Meter
 
 These files can be printed on a standard FFF (Fused Filament Fabrication) desktop printer without support.
 
-We've also included the letters "BDG" which you can add to the lock if you want to do a two-color print. (If not, just print the lock by itself.)
+The latest version of our Small Tape Roll Holder (v3) has been simplified. It now consists of the main body and a single clip. There is less chance of the tape getting tangled or twisted now.
+
+We've also included text on the body and the clip. If you have a multi-color 3D printer we recommend printing the text in black, or at least a darker color than the rest of the print. (You can also ignore the text and just print the body and clip as single-color prints.)
 
 
-![](Images/Small-Tape-Holder-v2-6552.jpg)
+![](Images/Tape-Roll-Holder-Sm-Render-01.png)
 
-![](Images/Small-Tape-Holder-v2-6543.jpg)
+![](Images/Tape-Roll-Holder-Sm-Render-02.png)
 
-![](Images/Small-Tape-Holder-v2-6548.jpg)
+
+![](Images/Small-Tape-Holder-v3-0008.jpg)
+
+![](Images/Small-Tape-Holder-v3-0003.jpg)
+
+![](Images/Small-Tape-Holder-v3-9999.jpg)
+
+![](Images/Small-Tape-Holder-v3-0005.jpg)
+
+![](Images/Small-Tape-Holder-v3-0010.jpg)
 
 
 ---
 
-Brown Dog Gadgets
-
-https://www.browndoggadgets.com/
+Brown Dog Gadgets  
+[www.browndoggadgets.com](https://www.browndoggadgets.com/)
